@@ -1,0 +1,2 @@
+# Face_recognition
+Dans ce projet, nous allons mettre en place un algorithme d’identification des visages dans une photographique. Pour cela, nous aborderons deux grands axes : la détection du visage d’abord, puis la vérification ou l’identification faciale. Puis que, “ la reconnaissance faciale est souvent décrite comme un processus qui implique d'abord quatre étapes; ils sont: visage détection, alignement de visages, extraction de caractéristiques et enfin reconnaissance de visage”. Jason Brownlee
